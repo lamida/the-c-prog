@@ -1,3 +1,6 @@
 add_executable(hello 01-hello.c)
-add_executable(vars01 02-vars-01.c)
-add_executable(vars02 02-vars-02.c)
+add_executable(vars01 02-vars-int.c)
+add_executable(vars02 03-vars-float.c)
+add_executable(vars03 04-vars-for-loop.c)
+add_executable(vars04 05-vars-constant.c)
+add_executable(copy 06-copy.c)
